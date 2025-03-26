@@ -2,7 +2,7 @@
 o Overview of your website (What it is, why you chose this topic)
 My website is a promotion for the video game THE FINALS
 o Features you implemented
-I used a grid to lay it out, hree different usable links that give the user more information, and an extral CSS to style it
+I used a grid to lay it out, three different usable links that give the user more information, and an extral CSS to style it
 o Hosting method used (XAMPP, MAMP, Ubuntu, or AWS)
 I used MAMP to host it locally
 o How to run the website locally or remotely (provide clear steps)
